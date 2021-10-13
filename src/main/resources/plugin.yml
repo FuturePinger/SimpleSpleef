@@ -1,0 +1,17 @@
+name: SimpleSpleef
+version: '${project.version}'
+main: com.simplespleef.Spleef
+api-version: 1.17
+commands:
+  spleef:
+    description: Starts/Stops the game!
+  spleef-region:
+    description: Provides all commands you can use to edit regions!
+  spleef-wand:
+    description: Provides you with a selection tool.
+  test:
+    description: Test command
+  spleef-spawnpoint:
+    description: Sets the spawn for the Spleef Arena!
+  spleef-join:
+    description: Allows you to join and leave the game!
